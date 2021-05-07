@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fdf9b45e.chunk.css",
+    "main.js": "/static/js/main.0b6b5b99.chunk.js",
+    "main.js.map": "/static/js/main.0b6b5b99.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aa0d5a2f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aa0d5a2f.js.map",
+    "static/js/2.7d6f959f.chunk.js": "/static/js/2.7d6f959f.chunk.js",
+    "static/js/2.7d6f959f.chunk.js.map": "/static/js/2.7d6f959f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.fdf9b45e.chunk.css.map": "/static/css/main.fdf9b45e.chunk.css.map",
+    "static/js/2.7d6f959f.chunk.js.LICENSE.txt": "/static/js/2.7d6f959f.chunk.js.LICENSE.txt",
+    "static/media/Chart_Prototype.7c0a017b.png": "/static/media/Chart_Prototype.7c0a017b.png",
+    "static/media/bitquerylogo.ab1dab08.png": "/static/media/bitquerylogo.ab1dab08.png",
+    "static/media/poocoinlogo.8a6f28c7.png": "/static/media/poocoinlogo.8a6f28c7.png",
+    "static/media/price-bots-menu.42997dce.jpg": "/static/media/price-bots-menu.42997dce.jpg",
+    "static/media/pricebot-details.17117a65.jpg": "/static/media/pricebot-details.17117a65.jpg",
+    "static/media/pricebot1.d1ab1fb3.png": "/static/media/pricebot1.d1ab1fb3.png",
+    "static/media/pricebot2.8c79989b.png": "/static/media/pricebot2.8c79989b.png",
+    "static/media/pricebotad.d1e3678f.gif": "/static/media/pricebotad.d1e3678f.gif",
+    "static/media/telegram_logo.5edb724e.svg": "/static/media/telegram_logo.5edb724e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa0d5a2f.js",
+    "static/js/2.7d6f959f.chunk.js",
+    "static/css/main.fdf9b45e.chunk.css",
+    "static/js/main.0b6b5b99.chunk.js"
+  ]
+}
